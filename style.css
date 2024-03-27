@@ -1,0 +1,131 @@
+table{
+    margin-top: 40px;
+}
+table, td{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 500px;
+    height: 300px;
+    padding: 5px;
+    color: rgb(233, 230, 230);
+}
+body{
+    margin: 0;
+    background-color: black;
+}
+nav{
+    color: rgb(233, 230, 230);
+    font-family: Tahoma;
+    font-size: 25px;
+    text-align: center;
+    padding: 25px;
+    background-color: rgb(233, 230, 230);
+    margin: 0;
+}
+.nav-btn{
+    color: rgb(233, 230, 230);
+    padding: 10px;
+}
+.cover-pic{
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid rgb(233, 230, 230);
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
+#header{
+    color: rgb(233, 230, 230);
+    margin-top: 30px;
+    font-family: Tahoma;
+    font-size: 20px;
+    text-align: center;
+}
+.image-container{
+    width: 200px;
+    height: 200px;
+}
+p{
+    color: rgb(233, 230, 230);
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Tahoma;
+    font-size: 15px;
+    text-align: center;
+}
+h1{
+    color: rgb(233, 230, 230);
+    font-family: tahoma;
+    font-size: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header{
+    color: rgb(233, 230, 230);
+    margin-top: 50px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: 50px;
+}
+.input-field{
+    color: green;
+    border: 0;
+    background-color: transparent;
+    border-bottom: 1px solid rgb(233, 230, 230);
+    padding: 15px;
+    text-align: center;
+}
+.input-wrapper{
+    padding-top: 30px;
+    padding-left: 12px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+form{
+    margin-top: 50px;
+    background-color: transparent;
+    border: 1px solid rgb(233, 230, 230);
+    width: 500px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.submit-btn{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#submit-btn{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(233, 230, 230);
+    background-color: transparent;
+    margin-bottom: 30px;
+    border: 1px solid rgb(233, 230, 230);
+    border-radius: 10px;
+}
+#footer-container{
+    margin-top: 310px;
+    background-color: rgb(233, 230, 230);
+    width: 100%;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+#footer{
+    font-size: 20px;
+    color: black;
+    padding: 15px;
+    font-family: Tahoma;
+}
+#footer-text{
+    color: black;
+    font-family: Tahoma;
+    font-size: 15px;
+}
